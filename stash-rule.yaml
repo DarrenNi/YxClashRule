@@ -51,6 +51,7 @@ proxy-groups:
       - SG 新加坡
       - 自动选择
       - TW 台湾省
+      - 全部节点
 
   - name: Netflix
     icon: https://fastly.jsdelivr.net/gh/Koolson/Qure/IconSet/Color/Netflix.png
